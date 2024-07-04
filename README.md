@@ -1,10 +1,10 @@
 # React + TypeScript + Vite
 ## Prerequis
-Avoir installer node sur son poste
+Avoir installer node & git sur son poste
 
 ## Installation
-Entrer les commandes suivantes dans un terminal en étant positionné dans le dossier du repo:
-- npm i && npm run dev
+Entrer les commandes suivantes dans un terminal:
+- git clone git@github.com:usualpro/caddy.git && cd caddy && npm i && npm run dev 
 - se rendre à l'url indiqué par le terminal
 
 # Forward to the Past
