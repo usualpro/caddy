@@ -1,0 +1,12 @@
+#root {
+  color: var(--sys-color-black);
+}
+
+@media (max-width: 1150px) {
+  .flexDirectionColumnOnMd {
+    flex-direction: column !important;
+  }
+  .gap2onMd {
+    gap: 2rem !important;
+  }
+}
