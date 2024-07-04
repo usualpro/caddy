@@ -123,7 +123,13 @@ function App() {
                         +
                       </button>
                     </div>
-                    <div>{movies.filter((c) => c === `${e.name}`).length}</div>
+                    <div>
+                      <small>
+                        <span style={{ fontStyle: "italic" }}>
+                          {movies.filter((c) => c === `${e.name}`).length}
+                        </span>
+                      </small>
+                    </div>
                   </div>
                 </div>
               ))}
