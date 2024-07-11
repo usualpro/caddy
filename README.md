@@ -13,8 +13,11 @@ L'équipe de production de Back to the Future voudrait remettre au goût du jour
 Revenir dans le passé, en 2000 ! Et passer un deal super smart avec une boutique de vente de DVDs (vous vous rappelez encore ce que c'est on espère…) avec une promo qui déchire :
 
 Le DVD d'un volet de la saga vaut 15 €
+
 Pour l'achat de 2 volets DIFFÉRENTS de la saga, on applique une réduction de 10 % sur l'ensemble des DVDs "Back to the Future" achetés
+
 Pour l'achat de 3 volets DIFFÉRENTS de la saga, on applique une réduction de 20 % sur l'ensemble des DVDs "Back to the Future" achetés
+
 La boutique de DVDs vend également d'autres films qui coûtent chacun 20 €.
 
 L'équipe de production vous charge d'écrire un programme qui aura le comportement suivant :
@@ -29,7 +32,8 @@ Néanmoins, comme indiqué en début d’énoncé, ce code devra être traité c
 
 Vous pourrez choisir le langage qui vous paraîtra le plus pertinent (dans lequel vous êtes à l'aise, c'est mieux), et qui devra pouvoir s'exécuter sur une JVM ou Python (dans le cas général) ou JS/TS (si vous êtes candidat front end ou full stack spécialiste front).
 
-Vous vous assurerez que le projet livré permette à quelqu'un ayant le SDK adéquat de lancer, utiliser et maintenir votre programme aisément. En résumé, le code doit être de très bonne qualité.
+Vous vous assurerez que le projet livré permette à quelqu'un ayant le SDK adéquat de lancer, utiliser et maintenir votre programme aisément.
+En résumé, le code doit être de très bonne qualité.
 
 Lors de l’éventuel entretien, venez avec votre code sur votre PC (pour vous permettre d’avoir un support sur lequel vous avez la main).
 
